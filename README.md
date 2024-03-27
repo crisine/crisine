@@ -31,7 +31,7 @@
 <a href="https://apps.apple.com/kr/app/time-to-do-이제는-집중할-때/id6479474029">[앱스토어 링크]</a>
 </h2>
 
-![Apple iPhone 11 Pro Max Presentation](https://github.com/crisine/crisine/assets/16317758/15377b4a-5fdc-491e-a969-1d355057cb91)
+![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/crisine/crisine/assets/16317758/f8268005-5f93-497d-a4af-4f728d1345ce)
 
 <ul>
   <li>한줄 소개 : 투두 리스트와 뽀모도로 타이머를 함께 사용하여<br>할 일에 대해 집중한 시간을 추적하고 관리할 수 있는 앱</li>
