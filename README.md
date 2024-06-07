@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=misung&color=fafaf9&fontColor=ffffff&fontAlignY=35&height=200)
 <div>
   <h1>👋 안녕하세요!</h1>
-  <div>SI 회사에서 JAVA 백엔드 및 SAP ABAP 개발로 1년 3개월간 서버 개발을 해 보고,<br>
-지금은 오래 전부터 해보고 싶었던 앱 개발자로의 적성을 확인하기 위해 퇴사 후 iOS 개발을 시도해 보고 있는 misung 이라고 합니다 😄</div>
+  <div>SI 회사에서 JAVA 백엔드 및 SAP ABAP 개발 등 경험이 있고, 최근엔 iOS 앱 개발을 해보는 등 다양한 경험을 가지고 있는 misung 이라고 합니다😄</div>
 
 <h2>📝 현재 배우고 있는 기술</h2>
 <div>
