@@ -44,7 +44,7 @@
 <h1>iOS 런칭 프로젝트</h1>
 <h2>Time To Do - 뽀모도로 타이머를 곁들인 투두 앱 (AppStore 출시)
 <a href="https://apps.apple.com/kr/app/time-to-do-이제는-집중할-때/id6479474029">[앱스토어 링크]</a>
-<a href="https://github.com/crisine/TimeToDo/assets/16317758/fedb727e-f020-4f8d-9089-0dbcc1a428c4">[README]</a>
+<a href="https://github.com/crisine/TimeToDo">[README]</a>
 </h2>
 
 ![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/crisine/crisine/assets/16317758/f8268005-5f93-497d-a4af-4f728d1345ce)
