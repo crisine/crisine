@@ -27,7 +27,9 @@
 </div>
 
 <h1> 백엔드 서버 연동 iOS 개발 프로젝트</h1>
-<h2>AdVoyager - 여행 코스를 계획하고 공유할 수 있는 앱</h2>
+<h2>AdVoyager - 여행 코스를 계획하고 공유할 수 있는 앱
+<a href="https://github.com/crisine/AdVoyager">[README]</a>
+</h2>
 
 ![Apple iPhone 11 Pro Max Presentation](https://github.com/crisine/crisine/assets/16317758/6c743abf-7e69-451f-af77-84f99f9b74b5)
 
@@ -42,6 +44,7 @@
 <h1>iOS 런칭 프로젝트</h1>
 <h2>Time To Do - 뽀모도로 타이머를 곁들인 투두 앱 (AppStore 출시)
 <a href="https://apps.apple.com/kr/app/time-to-do-이제는-집중할-때/id6479474029">[앱스토어 링크]</a>
+<a href="https://github.com/crisine/TimeToDo/assets/16317758/fedb727e-f020-4f8d-9089-0dbcc1a428c4">[README]</a>
 </h2>
 
 ![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/crisine/crisine/assets/16317758/f8268005-5f93-497d-a4af-4f728d1345ce)
