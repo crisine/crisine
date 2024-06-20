@@ -34,7 +34,7 @@
 ![Apple iPhone 11 Pro Max Presentation](https://github.com/crisine/crisine/assets/16317758/6c743abf-7e69-451f-af77-84f99f9b74b5)
 
 <ul>
-  <li>한줄 소개 : 투두 리스트와 뽀모도로 타이머를 함께 사용하여<br>할 일에 대해 집중한 시간을 추적하고 관리할 수 있는 앱</li>
+  <li>한줄 소개 : 여행 코스를 공유하고, 계획을 설정하여 여행에 도움을 주는 앱</li>
   <li>팀원 : iOS 1인 개발</li>
   <li>개발 기간 : 2024.04.10 ~ 2024.05.16 (5주)</li>  
   <li>키워드 : UIKit, MVVM, RxSwift, REST API, Alamofire, Realm</li>
