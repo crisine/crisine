@@ -1,22 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=misung&color=fafaf9&fontColor=ffffff&fontAlignY=35&height=200)
 
 <div>
-  <li>22.11 ~ 23.07 @Metanet Digital, Spring Web BackEnd Engineer</li>
-  <li>23.08 ~ 23.11 @Metanet Global, SAP ABAP Engineer</li>
-  <li>24.07 ~ @NeuroCircuit, iOS/Flutter Mobile Engineer</li>
-</div>
-<div>
   <h1>👋 안녕하세요!</h1>
   <div>SI 회사에서 JAVA 백엔드 및 SAP ABAP 개발 등 경험이 있고, 최근엔 iOS 앱 개발을 해보는 등<br>
     다양한 경험을 가지고 있는 misung 이라고 합니다😄</div>
-
+</div>
+<div>
+  <h1>🏢 경력 및 경험</h1>
+  <li><b>24.07 ~ @NeuroCircuit</b>, iOS/Flutter Mobile Engineer</li>
+  <li><b>23.12 ~ 24.05 @SeSAC</b>, iOS Memolease 4th Student</li>
+  <li><b>23.08 ~ 23.11 @Metanet Global</b>, SAP ABAP Engineer</li>
+  <li><b>22.11 ~ 23.07 @Metanet Digital</b>, Spring Web Back-End Engineer</li>
+  <li><b>22.04 ~ 22.09 @JoongangAcademy</b>, Java Spring Back-End Engineer Student</li>
+  <li><b>21.11 ~ 22.04 @42Seoul 5th</b>, Cadet</li>
+</div>
+</div>
 <h2>📝 현재 배우고 있는 기술</h2>
 <div>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/UIKit-00a7ff?style=for-the-badge&logo=Swift&logoColor=white">
+  <img src="https://shields.io/badge/UIKit-white?logo=swift&?style=social">
+  <img src="https://img.shields.io/badge/SwiftUI-524520?logo=swift">
+  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">
 </div>
 
-<h2>🖥️ 이전에 사용했던 기술</h2>
+<h2>🖥️ 실무 경험이 있던 기술</h2>
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
