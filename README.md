@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=misung&color=fafaf9&fontColor=ffffff&fontAlignY=35&height=200)
+
+<div>
+  <li>22.11 ~ 23.07 @Metanet Digital, Spring Web BackEnd Engineer</li>
+  <li>23.08 ~ 23.11 @Metanet Global, SAP ABAP Engineer</li>
+  <li>24.07 ~ @NeuroCircuit, iOS/Flutter Mobile Engineer</li>
+</div>
 <div>
   <h1>👋 안녕하세요!</h1>
   <div>SI 회사에서 JAVA 백엔드 및 SAP ABAP 개발 등 경험이 있고, 최근엔 iOS 앱 개발을 해보는 등<br>
