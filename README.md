@@ -3,7 +3,8 @@
 <div>
   <h1>👋 안녕하세요!</h1>
   <div>SI 회사에서 JAVA 백엔드 및 SAP ABAP 개발 등 경험이 있고, 최근엔 iOS 앱 개발을 해보는 등<br>
-    다양한 경험을 가지고 있는 misung 이라고 합니다😄</div>
+    다양한 경험을 가지고 있는 misung 이라고 합니다😄<br><br>
+  최근에는 CES 2025 에서 전시자로서 참가했습니다! <br><a href="https://www.ikld.kr/news/articleView.html?idxno=306665">KICT, 美 ‘CES 2025’ 단독관 운영… 스마트건설 스타트업 기업 지원</a></div>
 </div>
 <div>
   <h1>🏢 경력 및 경험</h1>
