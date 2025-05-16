@@ -14,24 +14,50 @@
   <li><b>21.11 ~ 22.04 @42Seoul 5th</b>, Cadet</li>
 </div>
 </div>
-<h2>📝 현재 배우고 있는 기술</h2>
+<h1>📝 현재 실무에 사용중인 기술</h1>
 <div>
-  <img src="https://shields.io/badge/UIKit-white?logo=swift&?style=social">
-  <img src="https://img.shields.io/badge/SwiftUI-524520?logo=swift">
-  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">
+  <h2>
+    Back-End Tech Stack
+  </h2>
+  <ul>
+    <li>Backend :
+      <img src="https://img.shields.io/badge/NodeJS-5FA04E?logo=nodedotjs&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/ExpressJS-000000?logo=express&amp;logoColor=white">
+    </li>
+    <li>BaaS : 
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&amp;logoColor=white">
+    </li>
+    <li>DataBase : 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&amp;logoColor=white">
+    </li>
+  </ul>
+  <h2>
+    Front-End Tech Stack
+  </h2>
+  <ul>
+    <li>Native App : 
+      <img src="https://img.shields.io/badge/Uikit-F05138?logo=swift&amp;logoColor=white">
+    </li>
+    <li>Cross-Platform : 
+      <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">
+    </li>
+  </ul>
+  <h2>Infra Tech Stack</h2>
+  <ul>
+    <li>Infra : 
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&amp;logoColor=white">
+    </li>
+  </ul>
+  <h2>etc</h2>
+  <ul>
+    <li>Task Management : 
+      <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&amp;logoColor=white">
+    </li>
+  </ul>
 </div>
 
-<h2>🖥️ 실무 경험이 있던 기술</h2>
-<div>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Sap-0FAAFF?style=for-the-badge&logo=Sap&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-</div>
-
-
-<br><br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisine&layout=compact&theme=dark)  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=crisine)](https://solved.ac/crisine)
 
