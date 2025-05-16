@@ -2,13 +2,12 @@
 
 <div>
   <h1>👋 안녕하세요!</h1>
-  <div>SI 회사에서 JAVA 백엔드 및 SAP ABAP 개발 등 경험이 있고, 최근엔 헬스케어 스타트업에서 Flutter 크로스플랫폼 앱 개발, 백엔드 서버 개발 등<br>
-    다양한 경험을 가지고 있는 misung 이라고 합니다😄<br><br>
+  <div>SI 회사에서 JAVA 백엔드 및 SAP ABAP 개발 등 경험이 있고, 최근엔 헬스케어 스타트업에서 Flutter 크로스플랫폼 앱 개발을 주력으로<br>팀장을 맡아 일하고 있는 misung 이라고 합니다😄<br><br>
   최근에는 CES 2025 에서 전시자로서 참가했습니다! <br><a href="https://www.ikld.kr/news/articleView.html?idxno=306665">KICT, 美 ‘CES 2025’ 단독관 운영… 스마트건설 스타트업 기업 지원</a></div>
 </div>
 <div>
   <h1>🏢 경력 및 경험</h1>
-  <li><b>24.07 ~ @NeuroCircuit</b>, iOS/Flutter Mobile, ExpressJS Back-End Engineer</li>
+  <li><b>24.07 ~ @NeuroCircuit</b>, iOS/Flutter Mobile Team Leader</li>
   <li><b>23.12 ~ 24.05 @SeSAC</b>, iOS Memolease 4th Student</li>
   <li><b>22.11 ~ 23.11 @Metanet Digital, Global</b>, Spring Web Back-End, SAP ABAP Engineer</li>
   <li><b>22.04 ~ 22.09 @JoongangAcademy</b>, Java Spring Back-End Engineer Student</li>
