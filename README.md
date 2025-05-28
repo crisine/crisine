@@ -23,13 +23,14 @@
     <li>Backend :
       <img src="https://img.shields.io/badge/NodeJS-5FA04E?logo=nodedotjs&amp;logoColor=white">
       <img src="https://img.shields.io/badge/ExpressJS-000000?logo=express&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&amp;logoColor=white">
     </li>
     <li>BaaS : 
       <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&amp;logoColor=white">
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&amp;logoColor=white">
     </li>
     <li>DataBase : 
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&amp;logoColor=white">
     </li>
   </ul>
   <h2>
@@ -37,7 +38,7 @@
   </h2>
   <ul>
     <li>Native App : 
-      <img src="https://img.shields.io/badge/Uikit-F05138?logo=swift&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/UIkit-F05138?logo=swift&amp;logoColor=white">
     </li>
     <li>Cross-Platform : 
       <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">
