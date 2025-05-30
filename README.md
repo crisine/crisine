@@ -7,7 +7,7 @@
 </div>
 <div>
   <h1>🏢 경력 및 경험</h1>
-  <li><b>24.07 ~ @NeuroCircuit</b>, Flutter/NestJS Full Stack Team Leader</li>
+  <li><b>24.07 ~ @NeuroCircuit</b>, Flutter/Spring Full Stack Team Leader</li>
   <li><b>23.12 ~ 24.05 @SeSAC</b>, iOS Memolease 4th Student</li>
   <li><b>22.11 ~ 23.11 @Metanet Digital, Global</b>, Spring Web Back-End, SAP ABAP Engineer</li>
   <li><b>22.04 ~ 22.09 @JoongangAcademy</b>, Java Spring Back-End Engineer Student</li>
@@ -21,9 +21,7 @@
   </h2>
   <ul>
     <li>Backend :
-      <img src="https://img.shields.io/badge/NodeJS-5FA04E?logo=nodedotjs&amp;logoColor=white">
-      <img src="https://img.shields.io/badge/ExpressJS-000000?logo=express&amp;logoColor=white">
-      <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&amp;logoColor=white">
     </li>
     <li>BaaS : 
       <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&amp;logoColor=white">
