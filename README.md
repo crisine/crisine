@@ -22,6 +22,7 @@
   <ul>
     <li>Backend :
       <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&amp;logoColor=white">
     </li>
     <li>BaaS : 
       <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&amp;logoColor=white">
