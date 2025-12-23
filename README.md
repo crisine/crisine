@@ -7,7 +7,8 @@
 </div>
 <div>
   <h1>🏢 경력 및 경험</h1>
-  <li><b>24.07 ~ @NeuroCircuit</b>, NestJS/Flutter Full Stack Team Leader</li>
+  <li><b>26.04 ~ @Osaka/Japan</b>, Backend System Engineer</li>
+  <li><b>24.07 ~ 25.12 @NeuroCircuit</b>, NestJS/Flutter Full Stack Team Leader</li>
   <li><b>23.12 ~ 24.05 @SeSAC</b>, iOS Memolease 4th Student</li>
   <li><b>22.11 ~ 23.11 @Metanet Digital, Global</b>, Spring Web Back-End, SAP ABAP Engineer</li>
   <li><b>22.04 ~ 22.09 @JoongangAcademy</b>, Java Spring Back-End Engineer Student</li>
