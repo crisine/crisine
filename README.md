@@ -4,7 +4,7 @@
   <h1>👋 Hello! I'm misung 🇰🇷🇯🇵</h1>
   <p>
     Experienced <b>Backend Engineer</b> currently based in <b>Osaka, Japan</b>.<br>
-    Proven leadership experience as a Team Leader in a startup environment.</b>.
+    Proven leadership experience as a Team Leader in a startup environment.
   </p>
 
   <br>
