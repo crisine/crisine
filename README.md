@@ -13,7 +13,7 @@
   <ul>
     <li><b>2026.04 ~ Present</b>: Backend System Engineer @ <b>Upload Inc. (Osaka, Japan)</b></li>
     <li><b>2024.07 ~ 2025.12</b>: Full Stack <b>Team Leader</b> @ <b>NeuroCircuit</b> (NestJS, Flutter)</li>
-    <li><b>2022.11 ~ 23.11</b>: Software Engineer @ <b>Metanet Digital/Global</b> (Spring, SAP ABAP)</li>
+    <li><b>2022.11 ~ 2023.11</b>: Software Engineer @ <b>Metanet Digital/Global</b> (Spring, SAP ABAP)</li>
   </ul>
 
   <br>
